@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\dtgv12\dtgv12\bin\Debug\dtgv12.exe.config
+C:\Users\legen\source\repos\dtgv12\dtgv12\bin\Debug\dtgv12.exe
+C:\Users\legen\source\repos\dtgv12\dtgv12\bin\Debug\dtgv12.pdb
+C:\Users\legen\source\repos\dtgv12\dtgv12\obj\Debug\dtgv12.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\dtgv12\dtgv12\obj\Debug\dtgv12.Form1.resources
+C:\Users\legen\source\repos\dtgv12\dtgv12\obj\Debug\dtgv12.Properties.Resources.resources
+C:\Users\legen\source\repos\dtgv12\dtgv12\obj\Debug\dtgv12.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\dtgv12\dtgv12\obj\Debug\dtgv12.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\dtgv12\dtgv12\obj\Debug\dtgv12.exe
+C:\Users\legen\source\repos\dtgv12\dtgv12\obj\Debug\dtgv12.pdb
